@@ -1,0 +1,12 @@
+CPP PROGRAM
+ g++ foldername -o filename
+./a .out
+
+PYTHON PROGRAM:
+ Python.3 filename
+
+FOR STACK
+g++ -std=c++11 filename 
+
+For output :
+./a.out
